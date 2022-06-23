@@ -1,0 +1,63 @@
+.titulo{ 
+    color: #ff0000;
+    text-align: center;
+    font-size: 25px;
+} 
+
+.subtitulo {
+    color: #ff0000;
+    text-align: center;
+    font-size: 22px;
+} 
+p { 
+    font-size: 17px;
+    text-align: center;
+}
+ul { 
+    font-size: 17px;
+    text-align: center;
+ }    
+ .foto { 
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.menu {
+    display: inline-block;
+    background: rgb(0, 0, 0);
+    padding: 20px 66px;
+    border-radius: 0px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    border: 0px solid;
+}
+
+.menu:hover {
+    background: rgb(0, 0, 0);
+    color: rgb(235, 187, 31);
+}
+
+nav {
+    background: rgb(0, 0, 0);
+    font-family: "Alike" !important;
+    font-size: small;
+    font-weight: 800;
+}
+
+.col {
+    font-family: "Alike" !important;
+    font-weight: 800;
+    justify-content: center;
+  
+}
+
+
+.cabecera {
+    background: rgb(0,0 0, 0);
+}
+
+.card {
+    box-shadow: cadetblue;
+}
